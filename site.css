@@ -30,7 +30,11 @@ footer {
   display: table;
 }
 
-.col-md-3{
-  background-color:white;
-  padding:15px;
+.button{
+  color:red;
+}
+.col-md-12{
+  background-color: white;
+  margin:10px;
+
 }
